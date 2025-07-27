@@ -20,7 +20,12 @@ Our datasets come from public interviews or TV shows.
 
 ## **Citation**
 Consider citing as below if you find this repository helpful to your project:
-
+```@inproceedings{dong2025talking,
+    title={Talking Head Generation via Viewpoint and Lighting Simulation Based on Global Representation}, 
+    author={Biao Dong and Lei Zhang},
+    booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+    year={2025}
+}```
 
 
 ## **Contact**
