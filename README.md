@@ -18,7 +18,7 @@ Our datasets come from public interviews or TV shows.
 -  ffmpeg: ```sudo apt-get install ffmpeg```
 -  To install the dependencies run: ```pip install -r TalkingHead-Simulation.txt```
 
-## 📚 Citation
+## **📚 Citation**
 If you find this repository helpful, please consider citing our paper:
 
 ```bibtex
