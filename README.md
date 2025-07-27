@@ -25,7 +25,7 @@ Consider citing as below if you find this repository helpful to your project:
     author={Biao Dong and Lei Zhang},
     booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
     year={2025}
-}```
+}
 
 
 ## **Contact**
