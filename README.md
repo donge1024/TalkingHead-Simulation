@@ -1,4 +1,4 @@
-# TalkingHead-Simulation
+# Pipeline
 <img width="1533" height="792" alt="pipeline" src="https://github.com/user-attachments/assets/88516837-83fd-4c70-8675-a7516179f52c" />
 This paper proposes a novel talking head generation method that combines layered viewpoint simulation (LVS) and continuous lighting simulation (CLS). LVS simulates multiple viewpoints through the multi-scale features of the video frame to construct the global depth representation, which can improve the accuracy of volume density estimation and enhance detail description. CLS simulates multiple lighting through brightness changes of continuous video frames to construct the global brightness representation, thereby alleviating color accumulation errors and eliminating blur. Extensive experiments demonstrate that our method significantly improves the detail quality compared to the state-of-the-art methods.
 
