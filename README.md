@@ -16,7 +16,7 @@ Our datasets come from public interviews or TV shows.
 ## **Installation**
 -  We train and test based on Python 3.8
 -  ffmpeg: ```sudo apt-get install ffmpeg```
--  To install the dependencies run: ```pip install -r talker.txt```
+-  To install the dependencies run: ```pip install -r TalkingHead-Simulation.txt```
 
 
 ## **Contact**
